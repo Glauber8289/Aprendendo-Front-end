@@ -1,0 +1,13 @@
+h2{color:brown}
+
+body {background-color:burlywood;}
+
+table {background-color:blueviolet;}
+
+.text{color:white;}
+table {height: 50%;}
+table {width: 50%;}
+table, th, td {
+    border: 5px solid black;
+ }
+ table,th,td {text-align: center;}
